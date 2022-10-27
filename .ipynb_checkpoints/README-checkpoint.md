@@ -60,3 +60,5 @@ A summary consideration determines that the optmized model offers far superior r
 Below is a graph offered to show the predicted buy and sell signals vs the actual returns. As seen, the results are replicative of the predictions.
 
 ![3](https://github.com/Johove83/Aphelion_Algorithmic_Superiority/blob/main/images/optimizedgraph.png)
+
+![4](https://github.com/Johove83/Aphelion_Algorithmic_Superiority/blob/main/images/buysell.png)
